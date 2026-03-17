@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
     "python-envs.defaultEnvManager": "ms-python.python:system",
     "python-envs.pythonProjects": []
+=======
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+>>>>>>> 04a72315988880cdb27793523d49de70b643fb99
 }
