@@ -1,113 +1,42 @@
-<<<<<<< HEAD
-Curso de python, mostrando minha trajetória.
-=======
-📊 SOC Threat Detection with Machine Learning 📌 Overview
+🐍 Python Journey
+📌 Overview
 
-This project is a Security Operations Center (SOC) inspired detection system capable of analyzing security data using Machine Learning to identify suspicious activities and notify the user directly in the Windows operating system.
+This repository represents my journey into programming through Python. It reflects my learning process, curiosity, and growing passion for technology and cybersecurity.
 
-The system processes security-related data (logs, behaviors or network activity), applies a machine learning model to detect anomalies or potential threats, and generates real-time alerts on the Windows environment.
+💡 Why I Chose Python
 
-Modern SOC platforms increasingly use AI and machine learning to analyze large volumes of security data, detect anomalies, and automate threat detection.
+I started learning Python because of its simplicity and readability. It allowed me to understand programming logic faster and build real projects from the beginning.
 
-🎯 Project Objectives
+Python is powerful, flexible, and widely used in many areas such as automation, data analysis, and cybersecurity — which made me even more interested in mastering it.
 
-Simulate a SOC detection workflow
+🚀 How It All Started
 
-Apply Machine Learning for anomaly detection
+My interest in programming began with curiosity about how systems work behind the scenes. I wanted to understand how software is built and how technology can be controlled and improved.
 
-Analyze system or security-related data
+As I kept studying, I realized that programming is not just about writing code — it's about solving problems, thinking logically, and creating solutions.
 
-Detect suspicious or malicious behavior
+🔐 Connection with Cybersecurity
 
-Generate alerts directly on Windows
+While learning Python, I became interested in cybersecurity. I discovered how programming can be used to analyze systems, detect vulnerabilities, and build defensive tools.
 
-Demonstrate practical cybersecurity + programming skills
+This motivated me to explore areas like:
 
-🧠 How It Works
+Security analysis
 
-The system follows a simplified SOC pipeline:
+Automation scripts
 
-1️⃣ Data Collection Security-related data is collected (logs, activity data, etc).
+Network monitoring
 
-2️⃣ Preprocessing The collected data is cleaned and prepared for analysis.
+Ethical hacking fundamentals
 
-3️⃣ Machine Learning Analysis The ML model analyzes patterns and identifies anomalies.
+🎯 Objective
 
-4️⃣ Threat Classification The system classifies events as:
+To continuously improve my Python skills and apply them in real-world scenarios, especially in cybersecurity and system analysis.
 
-Normal behavior
+🌱 Vision
 
-Suspicious activity
+Keep evolving as a developer, building projects, learning new technologies, and becoming a professional capable of solving complex problems in the tech field.
 
-Potential threat
+👨‍💻 Author
 
-5️⃣ Alert Generation When suspicious behavior is detected, the system triggers a Windows notification alert.
-
-Machine learning helps SOC environments detect abnormal behavior and reduce false positives by analyzing patterns in security data.
-
-⚙️ Technologies Used
-
-Python
-
-Machine Learning
-
-Scikit-learn / TensorFlow / PyTorch (depending on implementation)
-
-Windows Notification System
-
-Log Analysis
-
-Data Processing
-
-🚨 Example Alert
-
-When a suspicious activity is detected, the system may generate a notification such as:
-
-⚠ Security Alert
-
-Suspicious behavior detected on this system.
-
-Event classified as potential threat. Check logs for more details. 🔍 Use Cases
-
-This project can simulate detection scenarios such as:
-
-Abnormal login patterns
-
-Suspicious process execution
-
-Network anomalies
-
-Behavioral deviations
-
-SOC systems analyze large volumes of security logs to detect attacks and prioritize incidents for investigation.
-
-🎓 Educational Purpose
-
-This project was developed as a learning project to explore cybersecurity concepts, including:
-
-SOC operations
-
-Threat detection
-
-Machine learning for cybersecurity
-
-Security monitoring
-
-🚀 Future Improvements
-
-Possible improvements include:
-
-Integration with SIEM platforms
-
-Real-time log ingestion
-
-Advanced anomaly detection models
-
-Threat intelligence feeds
-
-Dashboard for SOC analysts
-
-📄 License
-
-This project is for educational and research purposes
->>>>>>> 04a72315988880cdb27793523d49de70b643fb99
+Luiz Fernando Araujo Santos
